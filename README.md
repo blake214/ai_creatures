@@ -12,4 +12,4 @@ The fitness of these AI creatures is measured based on the distance they move wi
 ## Project Inspiration
 This project draws inspiration from Karl Sims' iconic "Evolving Virtual Creatures" experiment, seeking to replicate artificial evolution in a virtual landscape. https://www.karlsims.com/papers/siggraph94.pdf 
 
-**Checkout the creatures**: https://www.youtube.com/watch?v=11mUuJtl6Ao
+**Checkout the creatures**: https://www.youtube.com/watch?v=t09IhA2FJCU
